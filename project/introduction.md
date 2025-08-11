@@ -1,3 +1,4 @@
+![835eb2409f8a0efa87ddb62e9064130c](https://github.com/user-attachments/assets/6513c348-a8fc-46f2-ad7b-e5648678ffa0)
 # Introduction
 Pterodactyl is the open-source game server management panel built with PHP, React, and Go. Designed with
 security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful
